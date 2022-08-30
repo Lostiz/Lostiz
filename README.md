@@ -2,4 +2,8 @@
 
 ![Lostiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lostiz&theme=moltack&show_icons=true)
 
-[![](/website.svg "Website")](https://s12h.top)
+<p align="center"> 
+  </br></br>
+  <a href="https://s12h.top"><img src="/website.svg" width="185px"/></a>
+  </br></br></br>
+</p>
