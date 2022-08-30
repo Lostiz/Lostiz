@@ -1,9 +1,9 @@
 # Hi there 👋
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Lostiz&theme=cottoncandy"/> </div>
+
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Lostiz&show_icons=true&theme=moltack"/> </div>
-                           
-<div align="center"> <img height="150px" src="https://activity-graph.herokuapp.com/graph?username=Lostiz&theme=cottoncandy"/> </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lostiz&show_icons=true&theme=moltack"/> </div>
                            
 <p align="center"> 
   </br></br>
