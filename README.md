@@ -1,4 +1,4 @@
-<div align='center' ># Hi there 👋</div>
+# Hi there 👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lostiz&show_icons=true&theme=moltack"/> </div>
