@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lostiz&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=moltack" /> </div>
+![Lostiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lostiz&theme=moltack&show_icons=true)
