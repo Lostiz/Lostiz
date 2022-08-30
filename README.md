@@ -1,7 +1,9 @@
 # Hi there 👋
 
-![Lostiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lostiz&theme=moltack&show_icons=true)
-
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lostiz&show_icons=true&theme=moltack"/>
+                           </div>
+                           
 <p align="center"> 
   </br></br>
   <a href="https://s12h.top"><img src="/website.svg" width="185px"/></a>
